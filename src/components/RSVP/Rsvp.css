@@ -355,10 +355,6 @@
   }
 
   .rsvp__stone {
-    width: 500px;
-    height: 500px;
-    top: 0;
-    left: 0;
-    right: -500px;
+    display: none;
   }
 }

@@ -324,15 +324,6 @@
     text-align: start;
   }
 
-  .question__trait {
-    height: 1px;
-    margin: 0;
-  }
-
-  .question__figure {
-    opacity: 0;
-  }
-
   .question__text {
     font-size: 12px;
     line-height: 23px;

@@ -303,6 +303,7 @@
     margin: 45px 0 0;
     position: relative;
     align-self: center;
+    border-radius: 10px;
   }
 
   .header__info_date-mobile {
@@ -348,6 +349,7 @@
     height: 200px;
     top: 0px;
     left: -40px;
+    display: block;
   }
 }
 
