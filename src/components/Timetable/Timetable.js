@@ -33,7 +33,7 @@ function Timetable() {
         <img className="timetable__line-end" src={lineEnd} alt="линия"></img>
         <p className="timetable__text timetable__text_about_rings">Сбор гостей <br /> 14.00</p>
         <p className="timetable__text timetable__text_about_foto">Церемония бракосочетания <br /> 15.00</p>
-        <p className="timetable__text timetable__text_about_glasses">Банкет <br /> 16:00</p>
+        <p className="timetable__text timetable__text_about_glasses">Банкет <br /> 16.00</p>
         <p className="timetable__text timetable__text_about_plate">Первый танец <br /> 17.00</p>
         <p className="timetable__text timetable__text_about_cake">Свадебный торт <br /> 21.00</p>
         <p className="timetable__text timetable__text_about_music">Живая музыка <br /> 18.00</p>
