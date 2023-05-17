@@ -15,7 +15,7 @@ function InfoDate() {
         <div className="info-date__check-in">
           <p className="info-date__what">Регистрация и банкет состоится</p>
         </div>
-        <p className="info-date__day-week">Воскресенье</p>
+        <p className="info-date__day-week">воскресенье</p>
         <div className="info-date__day">
           <p className="info-date__number">20</p>
           <div className="info-date__vertical-line"></div>

@@ -325,25 +325,25 @@
   }
 
   .question__text {
-    font-size: 12px;
-    line-height: 23px;
+    font-size: 14px;
+    line-height: 24px;
     width: 80%;
     margin: 20px 0 0;
   }
 
   .question__text-span {
-    font-size: 12px;
+    font-size: 13px;
     line-height: 23px;
   }
 
   .question__visible-radio {
-    width: 10px;
-    height: 10px;
+    width: 15px;
+    height: 15px;
   }
 
   .question__visible-checkbox {
-    width: 10px;
-    height: 10px;
+    width: 15px;
+    height: 15px;
   }
 
   .question__form {
@@ -352,7 +352,7 @@
 
   .question__string {
     margin: 0 0 15px;
-    font-size: 12px;
+    font-size: 14px;
   }
 
   .question__label {
@@ -361,13 +361,13 @@
 
   .question__input {
     height: 45px;
-    font-size: 12px;
+    font-size: 14px;
   }
 
   .question__button {
     width: 155px;
     height: 40px;
-    font-size: 12px;
+    font-size: 14px;
   }
 
   .question__stone {

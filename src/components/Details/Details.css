@@ -210,10 +210,10 @@
   }
 
   .details__text {
-    font-size: 12px;
-    line-height: 25px;
+    font-size: 14px;
+    line-height: 26px;
     width: 80%;
-    margin: 7px 0;
+    margin: 10px 0;
   }
 
   .details__stone {
